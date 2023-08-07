@@ -23,6 +23,7 @@ This module requires the following:
 
 ## Recommended modules (optional)
 
+Intention is for this module to create content for Social Posts.
 https://www.drupal.org/project/social_post
 
 
