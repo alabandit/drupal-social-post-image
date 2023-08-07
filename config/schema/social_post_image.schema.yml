@@ -1,0 +1,50 @@
+# Field storage.
+field.storage_settings.social_post_image_social_post_image:
+  type: mapping
+  label: Example storage settings
+  mapping:
+    foo:
+      type: string
+      label: Foo
+
+# Field instance.
+field.field_settings.social_post_image_social_post_image:
+  type: mapping
+  label: Example field settings
+  mapping:
+    bar:
+      type: string
+      label: Bar
+
+# Default value.
+field.value.social_post_image_social_post_image:
+  type: mapping
+  label: Default value
+  mapping:
+    value_1:
+      type: string
+      label: Value 1
+    value_2:
+      type: string
+      label: Value 2
+    value_3:
+      type: string
+      label: Value 3
+
+# Field widget.
+field.widget.settings.social_post_image_social_post_image:
+  type: mapping
+  label: Example widget settings
+  mapping:
+    foo:
+      type: string
+      label: Foo
+
+# Field formatter.
+field.formatter.settings.social_post_image_social_post_image_default:
+  type: mapping
+  label: Example formatter settings
+  mapping:
+    foo:
+      type: string
+      label: Foo
